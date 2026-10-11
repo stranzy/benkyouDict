@@ -1,0 +1,32 @@
+[
+  {
+    "name": "en",
+    "version": "1.0.0",
+    "update_at": "2026-10-11T00:00:00.000Z",
+    "size": "75.4 MB"
+  },
+  {
+    "name": "id",
+    "version": "1.0.0",
+    "update_at": "2026-10-11T00:00:00.000Z",
+    "size": "62.4 MB"
+  },
+  {
+    "name": "my",
+    "version": "1.0.0",
+    "update_at": "2026-10-11T00:00:00.000Z",
+    "size": "41.5 MB"
+  },
+  {
+    "name": "th",
+    "version": "1.0.0",
+    "update_at": "2026-10-11T00:00:00.000Z",
+    "size": "48.8 MB"
+  },
+  {
+    "name": "vi",
+    "version": "1.0.0",
+    "update_at": "2026-10-11T00:00:00.000Z",
+    "size": "21 MB"
+  }
+]
