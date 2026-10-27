@@ -1,32 +1,44 @@
 [
   {
     "name": "en",
-    "version": "1.0.0",
-    "update_at": "2026-10-11T00:00:00.000Z",
-    "size": "75.4 MB"
+    "version": "1.0.1",
+    "update_at": "2026-10-27T00:00:00.000Z",
+    "size": "76.7 MB"
   },
   {
     "name": "id",
+    "version": "1.0.1",
+    "update_at": "2026-10-27T00:00:00.000Z",
+    "size": "63.3 MB"
+  },
+  {
+    "name": "ko",
     "version": "1.0.0",
-    "update_at": "2026-10-11T00:00:00.000Z",
-    "size": "62.4 MB"
+    "update_at": "2026-10-27T00:00:00.000Z",
+    "size": "52.6 MB"
+  },
+  {
+    "name": "ne",
+    "version": "1.0.0",
+    "update_at": "2026-10-27T00:00:00.000Z",
+    "size": "52.4 MB"
   },
   {
     "name": "my",
-    "version": "1.0.0",
-    "update_at": "2026-10-11T00:00:00.000Z",
-    "size": "41.5 MB"
+    "version": "1.0.1",
+    "update_at": "2026-10-27T00:00:00.000Z",
+    "size": "42.2 MB"
   },
   {
     "name": "th",
-    "version": "1.0.0",
-    "update_at": "2026-10-11T00:00:00.000Z",
-    "size": "48.8 MB"
+    "version": "1.0.1",
+    "update_at": "2026-10-27T00:00:00.000Z",
+    "size": "49.6 MB"
   },
   {
     "name": "vi",
-    "version": "1.0.0",
-    "update_at": "2026-10-11T00:00:00.000Z",
-    "size": "21 MB"
+    "version": "1.0.1",
+    "update_at": "2026-10-27T00:00:00.000Z",
+    "size": "54.7 MB"
   }
 ]
